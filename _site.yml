@@ -14,5 +14,6 @@ navbar:
 base_url: https://AimericVandescure.github.io/aimeric-vandescure-blog/
 collections:
     posts:
+      disqus : aimeric-vandescure-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
