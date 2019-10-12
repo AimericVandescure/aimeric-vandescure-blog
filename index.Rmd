@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about yeast"
+title: "Everything you need to know about the yeasts"
 site: distill::distill_website
 listing: posts
 ---
