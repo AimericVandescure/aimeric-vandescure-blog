@@ -1,7 +1,7 @@
 ---
-title: "Article analysis n° 1"
+title: "Article analysis n° 2"
 description: |
-  Short description
+  A short description of the post.
 author:
   - name: Nicolas Devilez
     url: {}
@@ -36,8 +36,8 @@ Nature https://www.nature.com/articles/s41598-019-45720-z
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Elizabeth Bárbara Epalanga Pires, Anderson Junior de Freitas, Fernanda França e Souza, Rafael Locatelli Salgado, Valéria Monteze Guimarães, Francisco Alves Pereira & Monique Renon Eller                         |
-| Published in?                | 25 June 2019                                                       |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | (insert date)                                                       |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
@@ -45,4 +45,5 @@ Nature https://www.nature.com/articles/s41598-019-45720-z
 
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+
 
