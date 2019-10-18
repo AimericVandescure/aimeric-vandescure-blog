@@ -3,7 +3,7 @@ title: "Article analysis n° 1"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 18-02-2019
+date: 10-18-2019
 output:
   distill::distill_article:
     self_contained: false
