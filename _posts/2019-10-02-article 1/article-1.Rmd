@@ -44,9 +44,9 @@ Nature https://www.nature.com/articles/s41598-019-45720-z
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Elizabeth Bárbara Epalanga Pires, Anderson Junior de Freitas, Fernanda França e Souza, Rafael Locatelli Salgado, Valéria Monteze Guimarães, Francisco Alves Pereira & Monique Renon Eller                         |
 | Published in?                | 25 June 2019                                                       |
-| General topic?               | The article talks about a way to find the best fungi to produce low-cost phytatses.|
-| Procedure/what was examined? | To find it you have to select the fungus strain, the substrate, the culture conditions i.e the time incubation, the temperature, the pH, the substrate concentration.Then, the phytase activity have to be measured according to the effect of pH, temperature, the thermostability of the phytases and the effect of the metal ions.Finally, statistical analysis must be made. |
-| Conclusions/discovery?       | Use the yeast *Kluyveromyces marxianus* is a great alternative to reduce the cost of phytase production due to its stability to different factors, a shorter generation time and its high productivity.      |
-| Remaining questions?         | All questions have been addressed |
+| General topic?               | The article talks about a way to find the best fungi to produce low-cost phytatses which are enzymes to metabolize phosphorus. |
+| Procedure/what was examined? | Indeed pigs are not able to synthesize phytase so we give him some extra phosphorus in its diet which is expensive and bad for the environment. So to find the best fungi you have to select the fungus strain, the substrate, the culture conditions i.e the time incubation, the temperature, the pH, the substrate concentration.Then, the phytase activity have to be measured according to the effect of pH, temperature, the thermostability of the phytases and the effect of the metal ions. Finally, statistical analysis must be made. |
+| Conclusions/discovery?       | Use the yeast *Kluyveromyces marxianus* is a great alternative to reduce the cost of phytase production due to its stability to different factors, a shorter generation time and its high productivity. Another candidate is *Acremonim zeae* but not as efficient as yeast.     |
+| Remaining questions?         | All questions have been addressed. |
 
 
