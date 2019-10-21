@@ -1,5 +1,5 @@
 ---
-title: "Article analysis n° 2"
+title: "Article analysis n° 3"
 author:
   - name: Aimeric Vandescure
     url: {}
@@ -15,12 +15,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I Title of the article: 
 
-Interspecific hybridization facilitates niche adaptation in beer yeast
+Osmolyte homeostasis controls single-cell growth rate and maximum cell size of Saccharomyces cerevisiae
 
 
 ## II Name of the Magazine + Source [URL]:
 
-Nature https://www.nature.com/articles/s41559-019-0997-9
+Nature https://www.nature.com/articles/s41540-019-0111-6
 
 
 ## III Vocabulary 
@@ -40,8 +40,4 @@ Nature https://www.nature.com/articles/s41559-019-0997-9
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
-
-
-
-
 
