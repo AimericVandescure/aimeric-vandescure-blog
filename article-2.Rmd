@@ -15,12 +15,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I Title of the article: 
 
-Interspecific hybridization facilitates niche adaptation in beer yeast
+Hybridization is a recurrent evolutionary stimulus in wild yeast speciation
 
 
 ## II Name of the Magazine + Source [URL]:
 
-Nature https://www.nature.com/articles/s41559-019-0997-9
+Nature https://www.nature.com/articles/s41467-019-08809-7
 
 
 ## III Vocabulary 
