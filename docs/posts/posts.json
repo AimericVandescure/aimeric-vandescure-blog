@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-02-article 2/",
+    "title": "Article analysis n° 2",
+    "description": {},
+    "author": [
+      {
+        "name": "Aimeric Vandescure",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-30",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-01T17:53:09+01:00"
+  },
+  {
     "path": "posts/2019-10-02-article 1/",
     "title": "Article analysis n° 1",
     "description": {},
