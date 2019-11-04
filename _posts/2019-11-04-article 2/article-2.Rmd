@@ -42,8 +42,8 @@ Phys.org  https://phys.org/news/2019-10-yeast-lineages-tolerant-deleterious-muta
 | Researchers                  | Bob Yirka, Freelance Science and Tech journalist and contributor.                        |
 | Published in?                | October 25, 2019                                                       |
 | General topic?               |  There are exceptions in evolutionary theorie and this yeast experiment is an example. Indeed, it shows that less suited organisms may be more resistant to deleterous mutations than others.               |
-| Procedure/what was examined? | To learn more about tradeoff between capacity for adaptation and cost of producing offspring that are less fit, the researchers introduced deleterious mutations, they determined wich is the more deleterious and they measured the effect on fitness.  |
-| Conclusions/discovery?       |  They found that more fit strains have higher variance and lower mean scores, it may show that beneficial mutations could have decreasing returns. So the researchers think that faster-growing strains are more sensitive to introduced mutations and that ther might be a conflict between two types of selection.     |
+| Procedure/what was examined? | To learn more about tradeoff between capacity for adaptation and cost of producing offspring that are less fit, the researchers introduced deleterious mutations, they determined which is the more deleterious and they measured the effect on fitness.  |
+| Conclusions/discovery?       |  They found that more fit strains have higher variance and lower mean scores, that may show that beneficial mutations could have decreasing returns. So the researchers think that faster-growing strains are more sensitive to introduced mutations and that ther might be a conflict between two types of selection.     |
 | Remaining questions?         | Are there other types of exceptions ? If beneficial mutations could have decreasing returns, how can we measure it ?    |
 
 
