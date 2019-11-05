@@ -1,5 +1,9 @@
 ---
-title: "My english activity log  M:.E.A.L"
+title: "My english activity log  M.E.A.L"
+date: 10-09-2019
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 10/09/19 Today I used RStudio to see how the blog work
