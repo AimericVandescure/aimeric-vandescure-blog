@@ -14,4 +14,9 @@ collections:
     posts:
       disqus : aimeric-vandescure-blog
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output: 
+    distill::distill_article :
+      color : blue
+
+
+

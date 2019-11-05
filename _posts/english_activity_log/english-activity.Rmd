@@ -1,5 +1,5 @@
 ---
-title: "My english activity log"
+title: "My english activity log  M:.E.A.L"
 ---
 
 10/09/19 Today I used RStudio to see how the blog work
