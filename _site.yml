@@ -16,8 +16,8 @@ collections:
       share: [twitter, linkedin, facebook]
 output: 
   distill::distill_article:
-    head: 
-    - color: blue
+    css: styles.css
+
 
 
 

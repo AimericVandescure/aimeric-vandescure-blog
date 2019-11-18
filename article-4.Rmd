@@ -3,7 +3,7 @@ title: "Article analysis n° 4"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 11-01-2019
+date: 11-18-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,31 +15,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I Title of the article: 
 
-Hybridization is a recurrent evolutionary stimulus in wild yeast speciation
+Exploiting parasitic yeast to kill yeast pathogens
 
 
 ## II Name of the Magazine + Source [URL]:
 
-Nature https://www.nature.com/articles/s41467-019-08809-7
+Science Daily  https://www.sciencedaily.com/releases/2019/05/190509142839.htm
 
 
-## III Vocabulary 
+## Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Healthcare burden   | Treatments accessible           |
+|  A draft       | A project         |
+| To trigger   | To cause    |
+| To break down     | To destroy    |
+| A prey    | What a predator eats    |
+| An insight    | An information    |
+| An avenue     |  A way, a manner   |
+| To monitor      | To watch by a computer     |
 
-## IV Analysis table 
+## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Researchers                  | PLOS                        |
+| Published in?                | May 9, 2019                                                       |
+| General topic?               |  Researchers discovered a type of yeast *Sacchahromycopsis schoenii* which is able to destroy another type of multi-resistant yeast *Candida auris* by predation.    |
+| Procedure/what was examined? | They sequenced, assembled and annoted a draft genome of S.schoenii to understand the predacious behaviour of the yeast and they observed living cells under a microscope   |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Remaining questions?         | What are they doing with the remaining yeasts *S. schoenii* ? |
+
 
 
 
