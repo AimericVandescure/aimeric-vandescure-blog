@@ -3,7 +3,7 @@ title: "Article analysis n° 4"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 11-18-2019
+date: 11-19-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -43,11 +43,11 @@ Science Daily  https://www.sciencedaily.com/releases/2019/05/190509142839.htm
 | Researchers                  | PLOS                        |
 | Published in?                | May 9, 2019                                                       |
 | General topic?               |  Researchers discovered a type of yeast *Sacchahromycopsis schoenii* which is able to destroy another type of multi-resistant yeast *Candida auris* by predation.    |
-| Procedure/what was examined? | They sequenced, assembled and annoted a draft genome of S.schoenii to understand the predacious behaviour of the yeast and they observed living cells under a microscope   |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Procedure/what was examined? | They sequenced, assembled and annoted a draft genome of S.schoenii to understand the predacious behaviour of the yeast and they observed living cells under a microscope to monitor this behaviour under different appoaches.  |
+| Conclusions/discovery?       |  By a lack of nutrients, the yeast becomes predator, the researchers also found that *S. schoenii* produce aspartic proteases to destroy the membrane of the prey. Thererfore this antifungal proprety could be used to produce a biocontrol agent.|
 | Remaining questions?         | What are they doing with the remaining yeasts *S. schoenii* ? |
 
-
+For more information about the spread of the multi-drug resistant yeast *Candida auris* click [here](https://www.bbc.com/news/health-49170866)
 
 
 
