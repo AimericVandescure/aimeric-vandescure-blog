@@ -40,7 +40,7 @@ Science Daily  https://www.sciencedaily.com/releases/2019/05/190509142839.htm
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | PLOS                        |
+| Researchers                  | /                        |
 | Published in?                | May 9, 2019                                                       |
 | General topic?               |  Researchers discovered a type of yeast *Sacchahromycopsis schoenii* which is able to destroy another type of multi-resistant yeast *Candida auris* by predation.    |
 | Procedure/what was examined? | They sequenced, assembled and annoted a draft genome of S.schoenii to understand the predacious behaviour of the yeast and they observed living cells under a microscope to monitor this behaviour under different appoaches.  |
