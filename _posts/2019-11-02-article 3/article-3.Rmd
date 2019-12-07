@@ -38,7 +38,7 @@ Science Daily  https://www.sciencedaily.com/releases/2019/11/191111102407.htm
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Technical university of Denmark                        |
+| Researchers                  | /                        |
 | Published in?                | November 11, 2019                                                       |
 | General topic?               |An amino acid, the ergothioneine is able to prevent or delay neurodegenerative diseases like Alzheimer. In addition, some fungi and bacteria produce some in nature so it could be used to industrial production.  |
 | Procedure/what was examined? | Chemical synthesis and exctracting from mushrooms is expensive and complicated so scientists compared differents fungi and the bacterium *Mycobacterium smegmatis* in different combinations where yeast is the production host, the best combinaison is finally with the enzymes NcEgt1 and CpEgt2. Scientists also tried to improve the yield by the use of ergothioneine transporters but it has not worked. Rather, the optimisation of the medium by adding amino acids that operate like building blocks permited a production of 0,6g/l in 84 hours for the fungi and 1,3 g/l in 216h for *E.coli* which have the best production.|
