@@ -1,0 +1,18 @@
+---
+title: "Questions"
+author: "Aimeric Vandescure"
+date: "12/7/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+https://phys.org/news/2019-08-probiotic-yeast.html
+
+https://www.sciencedaily.com/releases/2019/12/191203143314.htm 
+
+
+https://www.sciencedaily.com/releases/2019/11/191120131323.htm
