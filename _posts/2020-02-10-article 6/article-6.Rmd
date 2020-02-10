@@ -3,7 +3,7 @@ title: "Article analysis n° 6"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 11-19-2019
+date: 02-10-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -15,27 +15,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I Title of the article: 
 
-Yeasts in nectar can stimulate the growth of bee colonies
+Scientists uncover new mode of evolution
 
 
 ## II Name of the Magazine + Source [URL]:
 
-Science Daily  https://www.sciencedaily.com/releases/2019/11/191120131323.htm
+LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.html
 
 ## Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| To stick   | To persist, to last                   |
+|   To alter     | To change         |
+|  To dig   |  To search  |
+|  To unfurl  |   To unroll   |
+| To swoop  | To hurry up  |
+|  A track  |  A trace  |
+|  A petri dish  |  A box to develop microorganisms  |
+|  To retain  |  To keep  |
+|  To outcompete  |  To exceed  |
+|  A leap  |  A jump, hop  |
+|  At whim  |  As much as you want, as desired  |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
+| Researchers                  | Nicoletta Lanese and Staff Writter                        |
+| Published in?                | January, 21 2020                                                       |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Remaining questions?         | Does this form of evolution exist in other organisms ? Or other forms of evolution in other yeasts ? |
+
