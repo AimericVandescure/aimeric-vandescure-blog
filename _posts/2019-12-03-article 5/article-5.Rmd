@@ -22,7 +22,7 @@ Yeasts in nectar can stimulate the growth of bee colonies
 
 Science Daily  https://www.sciencedaily.com/releases/2019/11/191120131323.htm
 
-## Vocabulary 
+## III Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
@@ -32,21 +32,21 @@ Science Daily  https://www.sciencedaily.com/releases/2019/11/191120131323.htm
 |A disruption    | A perturbation  |
 | A threat     | A dangerous thing    |
 
-## Analysis table 
+## IV Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
+<<<<<<< HEAD:_posts/2019-12-19-article 5/article-5.Rmd
 | Researchers                  | María I. Pozo, Gaby Kemenade, Annette Oystaeyen, Tomás Aledón‐Catalá, Alfredo Benavente, Wim Van den Ende, Felix Wäckers, Hans Jacquemyn.                        |
 | Published in?                | November, 20 2019                                                       |
+=======
+| Researchers                  | María I. Pozo, Gaby Kemenade, Annette Oystaeyen, Tomás Aledón‐Catalá, Alfredo Benavente, Wim Van den Ende, Felix Wäckers, Hans Jacquemyn.                         |
+| Published in?                | November 20, 2019                                                       |
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383:_posts/2019-12-03-article 5/article-5.Rmd
 | General topic?               |  Biologists from KU Leuven Biology Department set out to demonstrate that nectar modified by yeasts can influence the health of a bumblebee *Bombus terrestris* colony.                       |
 | Procedure/what was examined? | This is achieved by observing the behaviour of bees into an artificial flower field containing one half with flowers wich contain a nectar-like solution and another half wich contain the same solution with different strains of yeast. Then they looked at which part of the field was the most visited by bees and how much time. Finally they studied differences in the weel-beeing of the bumblebees.|
 | Conclusions/discovery?       |Actually the result is that there are no differences in visit frequencies between the two parts nor time on flower differences. However they noticed that bees can absorb yeast cells although the nutrients concentration is quite high in addition in certain strains of yeast generate more larvae wich become worker bee.|
 | Remaining questions?         | How does yeast influence the live of pollinators ? Are they main actors in the live of pollinators?|
 
-Questions :
-
-https://phys.org/news/2019-08-probiotic-yeast.html
-
-https://www.sciencedaily.com/releases/2019/12/191203143314.htm 
 
 

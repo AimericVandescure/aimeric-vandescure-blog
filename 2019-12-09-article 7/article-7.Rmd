@@ -1,0 +1,39 @@
+---
+title: "Article analysis n° 7"
+    url: {}
+date: 03-02-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I Title of the article: 
+
+Yeasts in nectar can stimulate the growth of bee colonies
+
+
+## II Name of the Magazine + Source [URL]:
+
+Science Daily https://www.sciencedaily.com/releases/2019/12/191203143314.htm
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| E.g. To cope with   | To deal with                   |
+|                     | Not too distant future         |
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | (insert date)                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |

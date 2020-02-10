@@ -1,6 +1,10 @@
 [
   {
+<<<<<<< HEAD
     "path": "posts/2019-12-19-article 5/",
+    "title": "Article analysis n° 5",
+=======
+    "path": "posts/2019-12-03-article 5/",
     "title": "Article analysis n° 5",
     "description": {},
     "author": [
@@ -12,11 +16,38 @@
     "date": "2019-12-09",
     "categories": [],
     "preview": {},
+    "last_modified": "2019-12-09T12:56:16+01:00"
+  },
+  {
+    "path": "posts/2019-11-19-article 4/",
+    "title": "Article analysis n° 4",
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
+    "description": {},
+    "author": [
+      {
+        "name": "Aimeric Vandescure",
+        "url": {}
+      }
+    ],
+<<<<<<< HEAD
+    "date": "2019-12-09",
+    "categories": [],
+    "preview": {},
     "last_modified": "2020-02-10T18:09:03+01:00"
   },
   {
     "path": "posts/2019-11-19-article 4/",
     "title": "Article analysis n° 4",
+=======
+    "date": "2019-12-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-09T12:54:19+01:00"
+  },
+  {
+    "path": "posts/2019-11-04-article 3/",
+    "title": "Article analysis n° 3",
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
     "description": {},
     "author": [
       {
@@ -27,10 +58,14 @@
     "date": "2019-12-02",
     "categories": [],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2020-02-10T18:11:27+01:00"
+=======
+    "last_modified": "2019-12-09T12:53:19+01:00"
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
   },
   {
-    "path": "posts/2019-11-04-article 2/",
+    "path": "posts/2019-11-02-article 2/",
     "title": "Article analysis n° 2",
     "description": {},
     "author": [
@@ -42,7 +77,11 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2020-02-10T17:01:13+01:00"
+=======
+    "last_modified": "2019-12-09T12:27:16+01:00"
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
   },
   {
     "path": "posts/2019-10-02-article 1/",
@@ -57,7 +96,11 @@
     "date": "2019-10-18",
     "categories": [],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2020-02-10T16:46:39+01:00"
+=======
+    "last_modified": "2019-12-09T12:27:16+01:00"
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
   },
   {
     "path": "posts/english_activity_log/",
@@ -67,6 +110,7 @@
     "date": "2019-10-09",
     "categories": [],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2020-02-10T18:05:00+01:00"
   },
   {
@@ -83,5 +127,8 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-02-10T20:43:37+01:00"
+=======
+    "last_modified": "2019-12-09T12:27:17+01:00"
+>>>>>>> 1465967e82377e04e794bbcd65ad83393ba6d383
   }
 ]
