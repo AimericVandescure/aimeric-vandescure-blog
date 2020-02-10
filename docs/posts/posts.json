@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-19-article 5/",
+    "title": "Article analysis n° 5",
+    "description": {},
+    "author": [
+      {
+        "name": "Aimeric Vandescure",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-10T18:09:02+01:00"
+  },
+  {
     "path": "posts/2019-11-19-article 4/",
     "title": "Article analysis n° 4",
     "description": {},
@@ -12,22 +27,7 @@
     "date": "2019-11-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-07T17:48:14+01:00"
-  },
-  {
-    "path": "posts/2019-12-19-article 5/",
-    "title": "Article analysis n° 5",
-    "description": {},
-    "author": [
-      {
-        "name": "Aimeric Vandescure",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-19",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-07T20:11:46+01:00"
+    "last_modified": "2020-02-10T18:08:56+01:00"
   },
   {
     "path": "posts/2019-11-02-article 3/",
@@ -82,6 +82,6 @@
     "date": "2019-10-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-10T18:04:59+01:00"
+    "last_modified": "2020-02-10T18:05:00+01:00"
   }
 ]

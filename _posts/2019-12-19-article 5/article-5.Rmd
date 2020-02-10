@@ -3,7 +3,7 @@ title: "Article analysis n° 5"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 11-19-2019
+date: 12-09-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -36,7 +36,7 @@ Science Daily  https://www.sciencedaily.com/releases/2019/11/191120131323.htm
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | /                        |
+| Researchers                  | María I. Pozo, Gaby Kemenade, Annette Oystaeyen, Tomás Aledón‐Catalá, Alfredo Benavente, Wim Van den Ende, Felix Wäckers, Hans Jacquemyn.                        |
 | Published in?                | November, 20 2019                                                       |
 | General topic?               |  Biologists from KU Leuven Biology Department set out to demonstrate that nectar modified by yeasts can influence the health of a bumblebee *Bombus terrestris* colony.                       |
 | Procedure/what was examined? | This is achieved by observing the behaviour of bees into an artificial flower field containing one half with flowers wich contain a nectar-like solution and another half wich contain the same solution with different strains of yeast. Then they looked at which part of the field was the most visited by bees and how much time. Finally they studied differences in the weel-beeing of the bumblebees.|
