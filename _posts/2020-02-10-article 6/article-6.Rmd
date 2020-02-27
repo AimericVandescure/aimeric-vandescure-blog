@@ -20,7 +20,7 @@ Scientists uncover new mode of evolution
 
 ## II Name of the Magazine + Source [URL]:
 
-LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.html
+LiveScience  qu'elles n'en gagnent de nouveaux
 
 ## III Vocabulary 
 
@@ -44,8 +44,8 @@ LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.htm
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Nicoletta Lanese and Staff Writter, Science journalists                        |
 | Published in?                | January, 21 2020                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| General topic?               |  The discovery of a yeast, *Cryptococcus neoformans* makes it possible that methyl groups around DNA are the support of Evolution and Natural selection.                     |
+| Procedure/what was examined? | That's groups allow to turn genes on or off and that are not expected to be present in yeasts and invertebrates. An organism which have methyl groups contains some "Novo methyltransferase" which sticks methyls on DNA and some "maintenance methyltransferase" which copies methyls on the new half of DNA during cell division. *C.neoformans* only has maintenance enzyme so it can't copy methyls indefinitely because there are mistakes with each cell division. In addition scientists discovered that random methyls groups can appear but the yeasts lost methyls twenty times faster. |
+| Conclusions/discovery?       |  In conclusion if yeast has not disappeared yet, it's because there are advantages, methyls increases survivability, protects the genome from attacks and prevents jumping genes, called transposons, to jump into a survival gene. So individuals with a high density of methyls are more able to survive.      |
 | Remaining questions?         | Does this form of evolution exist in other organisms ? Or other forms of evolution in other yeasts ? |
 
