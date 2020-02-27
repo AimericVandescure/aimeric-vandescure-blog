@@ -1,0 +1,55 @@
+---
+title: "Article analysis n° 7"
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 02-12-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## I Title of the article: 
+
+Eco-friendly way to stop mosquitoes
+
+
+## II Name of the Magazine + Source [URL]:
+
+Science Daily  https://www.sciencedaily.com/releases/2020/02/200213090720.htm
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| A scourge   | A plague/curse                    |
+|  Simply put   | Simply said         |
+|  A puddle  | Small area of rain water  |
+|  To hatch  |  Get out of the egg  |
+|  To munch  |  To snack  |
+|  To harm  |  To damage |
+|  A pest  | A harmfull organism  |
+|  A patent  | Sort of protection of the idea  |
+|  To break down  |  To degrade  |
+|  Prevalent  | Spread  |
+|  Oil-laden cells  | cells filled with oil  |
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  Michael Haederle, he is writer, editor and teacher                        |
+| Published in?                | February 13, 2020                                                       |
+| General topic?               |  A new way to eradicate mosquitoes is to put some orange oil into a common yeast, *Saccharomyces cerevisae* and use it to kill the larvae. It's due to insecticidal proereties from this type of essential oil.                        |
+| Procedure/what was examined? | The method comprises injecting orange oil into yeasts cells, which kills the yeasts. The oil residue is then washed and dried in powder form, to use the final product il is sufficient to rehydrate the powder and to spray on ponds which contains larvae. *Aedes aegypti* larvae which transmit dengue and zika feed on yeasts but are sensitive to the oil so they die. This patented technology from a simple idea took four years to emerge and it started exactly when zika appeared. One might think it's more easily to throw essential oil into the ponds but an concentration in oil is pretty toxic so it will kill much more than the larvae. Nevertheless in right concentrations, the product is not harmful for other organisms and for humans such as industrial larvicides, in addition some larvae are now able to resit to that industrial larvicides.|
+| Conclusions/discovery?       |  Finally that low-cost technology could be used to eradicate some diseases from poor tropical regions easily. Moreover researchers are testing this process on other mosquitoes species which transmit other diseases.      |
+| Remaining questions?         | Could we use this technology to eradicate other pests ? Could this eradication disrupt the food chain ? |
+
+
+
+

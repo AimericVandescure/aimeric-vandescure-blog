@@ -3,7 +3,7 @@ title: "Article analysis n° 6"
 author:
   - name: Aimeric Vandescure
     url: {}
-date: 02-10-2019
+date: 02-10-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -22,7 +22,7 @@ Scientists uncover new mode of evolution
 
 LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.html
 
-## Vocabulary 
+## III Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
@@ -38,11 +38,11 @@ LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.htm
 |  A leap  |  A jump, hop  |
 |  At whim  |  As much as you want, as desired  |
 
-## Analysis table 
+## IV Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Nicoletta Lanese and Staff Writter                        |
+| Researchers                  | Nicoletta Lanese and Staff Writter, Science journalists                        |
 | Published in?                | January, 21 2020                                                       |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
