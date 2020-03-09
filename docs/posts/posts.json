@@ -12,7 +12,7 @@
     "date": "2020-02-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-27T18:38:43+01:00"
+    "last_modified": "2020-03-09T14:46:35+01:00"
   },
   {
     "path": "posts/2020-02-10-article 6/",
@@ -42,7 +42,7 @@
     "date": "2019-12-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-10T20:46:36+01:00"
+    "last_modified": "2020-03-09T14:45:15+01:00"
   },
   {
     "path": "posts/2019-11-19-article 4/",
@@ -57,7 +57,7 @@
     "date": "2019-12-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-10T20:46:37+01:00"
+    "last_modified": "2020-03-09T15:02:32+01:00"
   },
   {
     "path": "posts/2019-11-04-article 3/",
@@ -113,5 +113,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-02-10T18:05:00+01:00"
+  },
+  {
+    "path": "posts/2020-02-12-article 9/",
+    "title": "Article analysis n° 9",
+    "description": {},
+    "author": [
+      {
+        "name": "Aimeric Vandescure",
+        "url": {}
+      }
+    ],
+    "date": "2019-03-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-09T14:59:14+01:00"
   }
 ]
