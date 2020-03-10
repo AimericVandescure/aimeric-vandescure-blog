@@ -39,7 +39,7 @@ Phys.org  https://phys.org/news/2019-10-yeast-lineages-tolerant-deleterious-muta
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Bob Yirka, Freelance Science and Tech journalist and contributor.                        |
+| Researchers                  | Milo S. Johnson et al. From Department of Organismic & Evolutionary Biology, Harvard University                        |
 | Published in?                | October 25, 2019                                                       |
 | General topic?               |  There are exceptions in evolutionary theorie and this yeast experiment is an example. Indeed, it shows that less suited organisms may be more resistant to deleterous mutations than others.               |
 | Procedure/what was examined? | To learn more about the deal between capacity for adaptation and cost of producing progeny that are less fit, the researchers introduced deleterious mutations, they determined which is the more deleterious and they measured the effect on fitness.  |

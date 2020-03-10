@@ -20,7 +20,7 @@ Scientists uncover new mode of evolution
 
 ## II Name of the Magazine + Source [URL]:
 
-LiveScience  qu'elles n'en gagnent de nouveaux
+LiveScience  https://www.livescience.com/yeast-reveals-new-mode-of-evolution.html
 
 ## III Vocabulary 
 
@@ -42,7 +42,7 @@ LiveScience  qu'elles n'en gagnent de nouveaux
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Nicoletta Lanese and Staff Writter, Science journalists                        |
+| Researchers                  |  Hiten Madhani, from Biochemistry and Biophysics Departments, University of California.                        |
 | Published in?                | January, 21 2020                                                       |
 | General topic?               |  The discovery of a yeast, *Cryptococcus neoformans* makes it possible that methyl groups around DNA are the support of Evolution and Natural selection.                     |
 | Procedure/what was examined? | That's groups allow to turn genes on or off and that are not expected to be present in yeasts and invertebrates. An organism which have methyl groups contains some "Novo methyltransferase" which sticks methyls on DNA and some "maintenance methyltransferase" which copies methyls on the new half of DNA during cell division. *C.neoformans* only has maintenance enzyme so it can't copy methyls indefinitely because there are mistakes with each cell division. In addition scientists discovered that random methyls groups can appear but the yeasts lost methyls twenty times faster. |

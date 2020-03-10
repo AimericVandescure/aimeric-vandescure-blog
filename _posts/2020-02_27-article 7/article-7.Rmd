@@ -43,7 +43,7 @@ Science Daily  https://www.sciencedaily.com/releases/2020/02/200213090720.htm
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  Michael Haederle, he is writer, editor and teacher                        |
+| Researchers                  |  Ivy Hurwitz, from UNM's Center for Global Health.                        |
 | Published in?                | February 13, 2020                                                       |
 | General topic?               |  A new way to eradicate mosquitoes is to put some orange oil into a common yeast, *Saccharomyces cerevisae* and use it to kill the larvae. It's due to insecticidal proereties from this type of essential oil.                        |
 | Procedure/what was examined? | The method comprises injecting orange oil into yeasts cells, which kills the yeasts. The oil residue is then washed and dried in powder form, to use the final product il is sufficient to rehydrate the powder and to spray on ponds which contains larvae. *Aedes aegypti* larvae which transmit dengue and zika feed on yeasts but are sensitive to the oil so they die. This patented technology from a simple idea took four years to emerge and it started exactly when zika appeared. One might think it's more easily to throw essential oil into the ponds but an concentration in oil is pretty toxic so it will kill much more than the larvae. Nevertheless in right concentrations, the product is not harmful for other organisms and for humans such as industrial larvicides, in addition some larvae are now able to resit to that industrial larvicides.|
