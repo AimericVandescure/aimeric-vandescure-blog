@@ -1,0 +1,56 @@
+---
+title: "Article analysis n° 8"
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 03-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## I Title of the article: 
+
+
+Engineered yeast can remove heavy metals from wastewater
+
+
+## II Name of the Magazine + Source [URL]:
+
+Chemestry World  https://www.chemistryworld.com/news/engineered-yeast-can-remove-heavy-metals-from-wastewater/4011200.article
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| A sample   | A small amount                    |
+|  To ship   | To send         |
+|  Elsewhere  | Not here  |
+|  Lime  |  Calcium oxide   |
+|  An handling  |  A manipulation  |
+|  Convoluted  |  Difficult |
+|  Rotten egg  | Bad egg  |
+|  Lead  | Zn  |
+|  To target  |  To aim  |
+|  To stress  | To emphasize  |
+
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  A.Belcher from  Massachusetts Institute of Technology, Materials scientist and engineer biologist.                        |
+| Published in?                | February 18, 2020                                                       |
+| General topic?               | Environmental heavy metal contamination is increasing in developing countries but the researcher Angela Belcher has created an engineered yeast able to precipitate heavy metals from wastewater.                    |
+| Procedure/what was examined? | Other methods use chemicals for this precipitation to form some sulfide minerals but other products such as H2S is a toxic gas and a safe storage is expensive. A solution is micro-organisms to replace that chemicals but yeasts grow faster and produce less H2S because the strain of yeast was engineered by wine industry. Moreover we could engineer yeasts differently for example to produce metal sulfide effectively or engineer yeast to deal with specific environmental contamination. In addition yeast has been tested in Canada in a pollution hotspot and it was succesful.                   |
+| Conclusions/discovery?       | But not all researchers agree, indeed yeast might be not much more effective than non-engineered bacteria, not to the point of replacing bacteria with yeasts in the present industies.                     |
+| Remaining questions?         |  Could we create an engineered bacterial to outdo everything that exists ?                    |
+
+
+
+

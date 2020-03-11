@@ -19,26 +19,30 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>Aimeric's Blog: A yeasts world</title>
+  <title>Aimeric's Blog: Article analysis n° 8</title>
   
   
   
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2020-03-11"/>
+  <meta property="article:created" itemprop="dateCreated" content="2020-03-11"/>
+  <meta name="article:author" content="Aimeric Vandescure"/>
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Aimeric&#39;s Blog: A yeasts world"/>
+  <meta property="og:title" content="Aimeric&#39;s Blog: Article analysis n° 8"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Aimeric&#39;s Blog"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Aimeric&#39;s Blog: A yeasts world"/>
+  <meta property="twitter:title" content="Aimeric&#39;s Blog: Article analysis n° 8"/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["A yeasts world"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Article analysis n° 8"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url"]}},"value":[{"type":"character","attributes":{},"value":["Aimeric Vandescure"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":[]}},"value":[]}]}]},{"type":"character","attributes":{},"value":["03-11-2020"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1274,12 +1278,12 @@
 
 </head>
 
-<body class="layout-listing">
+<body>
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"A yeasts world","authors":[]}
+{"title":"Article analysis n° 8","authors":[{"author":"Aimeric Vandescure","authorURL":{},"affiliation":"&nbsp;","affiliationURL":"#"}],"publishedDate":"2020-03-11T00:00:00.000+01:00","citationText":"Vandescure, 2020"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1302,445 +1306,107 @@
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
-<!--radix_placeholder_article_listing-->
-
-<style type="text/css">
-
-/* Styles for listing layout (hide title) */
-.layout-listing d-title, .layout-listing .d-title {
-  display: none;
-}
-
-/* Styles for posts lists (not auto-injected) */
-
-
-.posts-with-sidebar {
-  padding-left: 45px;
-  padding-right: 45px;
-}
-
-.posts-list .description h2,
-.posts-list .description p {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-}
-
-.posts-list .description h2 {
-  font-weight: 700;
-  border-bottom: none;
-  padding-bottom: 0;
-}
-
-.posts-list h2.post-tag {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  padding-bottom: 12px;
-}
-.posts-list {
-  margin-top: 60px;
-  margin-bottom: 24px;
-}
-
-.posts-list .post-preview {
-  text-decoration: none;
-  overflow: hidden;
-  display: block;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 24px 0;
-}
-
-.post-preview-last {
-  border-bottom: none !important;
-}
-
-.posts-list .posts-list-caption {
-  grid-column: screen;
-  font-weight: 400;
-}
-
-.posts-list .post-preview h2 {
-  margin: 0 0 6px 0;
-  line-height: 1.2em;
-  font-style: normal;
-  font-size: 24px;
-}
-
-.posts-list .post-preview p {
-  margin: 0 0 12px 0;
-  line-height: 1.4em;
-  font-size: 16px;
-}
-
-.posts-list .post-preview .thumbnail {
-  box-sizing: border-box;
-  margin-bottom: 24px;
-  position: relative;
-  max-width: 500px;
-}
-.posts-list .post-preview img {
-  width: 100%;
-  display: block;
-}
-
-.posts-list .metadata {
-  font-size: 12px;
-  line-height: 1.4em;
-  margin-bottom: 18px;
-}
-
-.posts-list .metadata > * {
-  display: inline-block;
-}
-
-.posts-list .metadata .publishedDate {
-  margin-right: 1em;
-}
-
-.posts-list .metadata .tags {
-  margin-top: 1em;
-}
-
-.posts-list .tags .tag {
-  color: rgba(0,0,0,0.67);
-  padding: 0.3em 0.5em;
-  margin: 0;
-  font-size: 80%;
-  border: 1px solid rgba(0,0,0,0.4);
-  border-radius: 3px;
-  text-transform: uppercase;
-  font-weight: 500;
-}
-
-.posts-list img {
-  opacity: 1;
-}
-
-.posts-list img[data-src] {
-  opacity: 0;
-}
-
-.posts-more {
-  clear: both;
-}
-
-
-.posts-sidebar {
-  font-size: 16px;
-}
-
-.posts-sidebar h3 {
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 0.5em;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-.sidebar-section {
-  margin-bottom: 30px;
-}
-
-.categories ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.categories li {
-  color: rgba(0, 0, 0, 0.8);
-  margin-bottom: 0;
-}
-
-.categories li>a {
-  border-bottom: none;
-}
-
-.categories li>a:hover {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
-}
-
-.categories .active {
-  font-weight: 600;
-}
-
-.categories .category-count {
-  color: rgba(0, 0, 0, 0.4);
-}
-
-
-@media(min-width: 768px) {
-  .posts-list .post-preview h2 {
-    font-size: 26px;
-  }
-  .posts-list .post-preview .thumbnail {
-    float: right;
-    width: 35%;
-    margin-bottom: 0;
-  }
-  .posts-list .post-preview .description {
-    float: left;
-    width: 45%;
-  }
-  .posts-list .post-preview .metadata {
-    float: left;
-    width: 15%;
-    margin-top: 8px;
-  }
-  .posts-list .post-preview p {
-    margin: 0 0 12px 0;
-    line-height: 1.5em;
-    font-size: 16px;
-  }
-  .posts-with-sidebar .posts-list {
-    float: left;
-    width: 72%;
-  }
-  .posts-with-sidebar .posts-sidebar {
-    float: right;
-    width: 20%;
-    margin-top: 60px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-  }
-}
-
-.downlevel .posts-list .post-preview {
-  color: inherit;
-}
-
-</style>
-
-<script type="application/javascript">
-
-function init_posts_list() {
-
-  function load_image(img) {
-    var src = $(img).attr('data-src');
-    if (src) {
-      $(img).attr('src', src);
-      $(img).load(function() {
-        img.removeAttribute('data-src');
-      });
-    }
-  }
-
-  function set_posts_visible(posts, visible) {
-    if (visible) {
-
-      // show bottom border by default
-      $(posts).removeClass('post-preview-last');
-
-      // apply limits if need be
-      var max_posts = 25;
-      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
-      if (apply_limits && posts.length > max_posts) {
-        posts = $(posts).slice(0, max_posts);
-      } else {
-        $('.posts-more a').addClass('hidden');
-      }
-
-      // apply last style
-      $(posts.slice(-1)[0]).addClass('post-preview-last');
-
-      $(posts).removeClass('hidden');
-      $(posts).find('img[data-src]').each(function(i, img) {
-        load_image(img);
-      });
-    } else {
-      $(posts).addClass('hidden');
-    }
-  }
-
-  function apply_hash_filter() {
-
-    // clear active state
-    $('.categories .active').removeClass('active');
-
-    // mark all posts invisible to start
-    set_posts_visible($('.posts-list').children('a'), false);
-
-    // if we have a hash filter
-    if (window.location.hash) {
-
-      // mark posts that match the category visible
-      var page_category = window.location.hash.replace("#", "");
-      var posts = $('.post-metadata').map(function(idx, script) {
-        var metadata = $.parseJSON($(script).html());
-        var post = null;
-        $.each(metadata.categories, function(idx, category) {
-          category = category.replace(/ /g,"_");
-          if (category == page_category) {
-            post = $(script).parent().get();
-            return false;
-          }
-        });
-        return post;
-      });
-      set_posts_visible(posts, true);
-
-      // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
-
-    } else {
-
-      // no hash filter, make all posts visible (subject to max display)
-      set_posts_visible($('.posts-list').children(), true);
-
-    }
-  }
-
-  // more articles
-  function apply_post_limits(apply) {
-    if (apply) {
-      $('.posts-container').addClass('posts-apply-limit');
-      $('.posts-more a').removeClass('hidden');
-    } else {
-      $('.posts-container').removeClass('posts-apply-limit');
-      $('.posts-more a').addClass('hidden');
-    }
-  }
-
-  // hash filter handling
-  apply_hash_filter();
-  $(window).on('hashchange',function() {
-    apply_post_limits(true);
-    apply_hash_filter();
-  });
-
-  // more articles link
-  $('.posts-more a').click(function(e) {
-    e.preventDefault();
-    apply_post_limits(false);
-    apply_hash_filter();
-    return false;
-  });
-
-}
-
-</script>
-
-
-
-<div class="posts-container posts-apply-limit l-page">
-<div class="posts-list">
-<h1 class="posts-list-caption">A yeasts world</h1>
-<a href="posts/2020-03-11-article 8/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">March 10, 2020</div>
-</div>
-<div class="thumbnail"></div>
-<div class="description">
-<h2>Article analysis n° 8</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2020-02-10-article 6/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Feb. 10, 2020</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 6</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2019-12-03-article 5/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Dec. 9, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 5</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2019-11-19-article 4/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Dec. 2, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 4</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2019-11-04-article 3/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Nov. 13, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 3</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2019-11-02-article 2/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Nov. 4, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 2</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/2019-10-02-article 1/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Oct. 18, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article analysis n° 1</h2>
-<p></p>
-</div>
-</a>
-<a href="posts/english_activity_log/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Oct. 9, 2019</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>My english activity log  M.E.A.L</h2>
-<p></p>
-</div>
-</a>
-</div>
-<div class="posts-more">
-<a href="#">More articles &raquo;</a>
-</div>
-</div>
-<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>A yeasts world</h1>
+<h1>Article analysis n° 8</h1>
 
 </div>
 
+<div class="d-byline">
+  Aimeric Vandescure true 
+  
+<br/>03-11-2020
+</div>
 
 <div class="d-article">
-<div class="layout-chunk" data-layout="l-body">
-
-</div>
+<h2 id="i-title-of-the-article">I Title of the article:</h2>
+<p>Engineered yeast can remove heavy metals from wastewater</p>
+<h2 id="ii-name-of-the-magazine-source-url">II Name of the Magazine + Source [URL]:</h2>
+<p>Chemestry World <a href="https://www.chemistryworld.com/news/engineered-yeast-can-remove-heavy-metals-from-wastewater/4011200.article" class="uri">https://www.chemistryworld.com/news/engineered-yeast-can-remove-heavy-metals-from-wastewater/4011200.article</a></p>
+<h2 id="iii-vocabulary">III Vocabulary</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Words from the text</th>
+<th>Synonym/explanation in English</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A sample</td>
+<td>A small amount</td>
+</tr>
+<tr class="even">
+<td>To ship</td>
+<td>To send</td>
+</tr>
+<tr class="odd">
+<td>Elsewhere</td>
+<td>Not here</td>
+</tr>
+<tr class="even">
+<td>Lime</td>
+<td>Calcium oxide</td>
+</tr>
+<tr class="odd">
+<td>An handling</td>
+<td>A manipulation</td>
+</tr>
+<tr class="even">
+<td>Convoluted</td>
+<td>Difficult</td>
+</tr>
+<tr class="odd">
+<td>Rotten egg</td>
+<td>Bad egg</td>
+</tr>
+<tr class="even">
+<td>Lead</td>
+<td>Zn</td>
+</tr>
+<tr class="odd">
+<td>To target</td>
+<td>To aim</td>
+</tr>
+<tr class="even">
+<td>To stress</td>
+<td>To emphasize</td>
+</tr>
+</tbody>
+</table>
+<h2 id="iv-analysis-table">IV Analysis table</h2>
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 70%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Researchers</td>
+<td>A.Belcher from Massachusetts Institute of Technology, Materials scientist and engineer biologist.</td>
+</tr>
+<tr class="even">
+<td>Published in?</td>
+<td>February 18, 2020</td>
+</tr>
+<tr class="odd">
+<td>General topic?</td>
+<td>A new way to eradicate mosquitoes is to put some orange oil into a common yeast, <em>Saccharomyces cerevisae</em> and use it to kill the larvae. It’s due to insecticidal proereties from this type of essential oil.</td>
+</tr>
+<tr class="even">
+<td>Procedure/what was examined?</td>
+<td>The method comprises injecting orange oil into yeasts cells, which kills the yeasts. The oil residue is then washed and dried in powder form, to use the final product il is sufficient to rehydrate the powder and to spray on ponds which contains larvae. <em>Aedes aegypti</em> larvae which transmit dengue and zika feed on yeasts but are sensitive to the oil so they die. This patented technology from a simple idea took four years to emerge and it started exactly when zika appeared. One might think it’s more easily to throw essential oil into the ponds but an concentration in oil is pretty toxic so it will kill much more than the larvae. Nevertheless in right concentrations, the product is not harmful for other organisms and for humans such as industrial larvicides, in addition some larvae are now able to resit to that industrial larvicides.</td>
+</tr>
+<tr class="odd">
+<td>Conclusions/discovery?</td>
+<td>Finally that low-cost technology could be used to eradicate some diseases from poor tropical regions easily. Moreover researchers are testing this process on other mosquitoes species which transmit other diseases.</td>
+</tr>
+<tr class="even">
+<td>Remaining questions?</td>
+<td>Could we use this technology to eradicate other pests ? Could this eradication disrupt the food chain ?</td>
+</tr>
+</tbody>
+</table>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
