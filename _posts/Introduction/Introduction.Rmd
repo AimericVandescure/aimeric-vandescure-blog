@@ -1,0 +1,34 @@
+---
+title: "Introduction"
+date: "4/15/2020"
+output: html_document
+---
+
+
+Yeast represent to unicellular fungi able to cause fermentation.  
+
+Fermentation is an oxidation-reduction reaction on a carbon structure in an oxygen-free medium. 
+
+These organisms are eukaryotic therefore contain a clearly defined nucleus and chromosomes, they also have a double protective membrane. 
+
+There are many species of yeast, for example the genus *Saccharomyces, Candida, Cryptococcus,* … 
+
+ 
+
+In the wild these organisms are present in forest litter, on the skin of fruit, decaying plants and insects are the vectors of transmission. 
+
+It is a yeast that lives in diploid or haploid form depending on stress in the wild and in genetics labs genetically modified yeasts are used to remain haploid, these yeasts were used to identify new genes for example. 
+
+ 
+
+*Saccharomyces cerevisiae* (brewer’s yeast, bakery’s yeast) is a model organism in genetics.  
+
+These yeasts are able to produce vitamin D in the presence of UV, plus it is also able to produce anti-fungal and anti-bacterial in addition to alcohol during fermentation. 
+
+Moreover, they provide molecules necessary for the growth of other microorganisms. 
+
+ 
+
+It is the yeast used to make beer and bread too. 
+
+The goal of this blog is thus to show that we don’t just make beer and bread with yeast and this blog aims to show some applications that can be derived from the properties of these organisms. 

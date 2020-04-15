@@ -1,0 +1,17 @@
+---
+title: "Conclusion"
+date: "4/15/2020"
+output: html_document
+---
+
+The different articles in this blog expose the different ways in which we can use the properties of different wild yeasts or lab yeasts. 
+
+Yeasts are required in the field of health to eradicate disease-carrying mosquitoes or as a production host for the synthesis of a molecule that prevents Alzheimer. 
+
+In genetics and evolutionary science yeast is studied to be better understood. 
+
+Yeast is also found in the industrial field in wild form to stimulate a bee colony or genetically modified to produce hydrogen or for the purification of water polluted by heavy metals. 
+
+However, sometimes yeasts may be more effective than other organisms but not enough to replace it in factories. 
+
+ 

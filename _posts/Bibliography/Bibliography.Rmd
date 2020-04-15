@@ -1,0 +1,61 @@
+---
+title: "Bibliography"
+date: "4/15/2020"
+output: html_document
+---
+
+
+**Introduction**
+
+
+Lionel Tafforeau. 2019. "Biologie Moléculaire" Presses universitaires : Université de Mons p.112
+
+European Molecular Biology Laboratory "Saccharomyces cerevisiae metabolism in ecological context.”NCBI. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5050001/ (accesed April 15, 2020) 
+
+ 
+
+ 
+
+**Article 1**
+
+Harvard University & University of California San Diego. “Yeast experiments show fit lineages are less tolerant to deleterious mutations”. Phys.org. https://phys.org/news/2019-10-yeast-lineages-tolerant-deleterious-mutations.html (accesed April 14, 2020) 
+
+ 
+
+**Article 2**
+
+Technical University of Denmark. "Potential vitamin and Alzheimer's drug produced in yeast." ScienceDaily. www.sciencedaily.com/releases/2019/11/191111102407.htm (accessed April 5, 2020). 
+
+ 
+
+**Article 3 **
+
+Babraham Institute. "How accumulating useful genes helps older yeast fare better in tougher times: Satellite DNA circles allow genome flexibility in challenging environments." ScienceDaily. www.sciencedaily.com/releases/2019/12/191203143314.htm (accessed March 27, 2020). 
+
+ 
+
+**Article 4 **
+
+KU Leuven. "Yeasts in nectar can stimulate the growth of bee colonies." ScienceDaily. www.sciencedaily.com/releases/2019/11/191120131323.htm (accessed April 3, 2020). 
+
+ 
+
+**Article 5 **
+
+University of California & San Francisco “Scientists uncover new mode of evolution”. LiveScience. https://www.livescience.com/yeast-reveals-new-mode-of-evolution.html (accesed April 15, 2020) 
+
+**Article 6 **
+
+University of New Mexico Health Sciences Center. "Eco-friendly way to stop mosquitoes: Researchers devise an eco-friendly way to eradicate a buzzing, biting pest." ScienceDaily. www.sciencedaily.com/releases/2020/02/200213090720.htm (accessed April 6, 2020). 
+
+ 
+
+**Article 7** 
+
+Massachusetts Institute of Technology “Engineered yeast can remove heavy metals from wastewater.” ChemestryWorld. https://www.chemistryworld.com/news/engineered-yeast-can-remove-heavy-metals-from-wastewater/4011200.article (accesed April 15, 2020) 
+
+ 
+
+**Article 8 **
+
+Purdue University Northwest.“A simplified way to turn food waste into hydrogen energy.” PerdueUniversity. https://www.purdue.edu/newsroom/releases/2020/Q1/a-simplified-way-to-turn-food-waste-into-hydrogen-energy.html (accesed April 15, 2020) 
