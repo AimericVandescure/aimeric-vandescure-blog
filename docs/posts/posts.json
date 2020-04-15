@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/Bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Aimeric Vandescure",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-15T13:57:02+02:00"
+  },
+  {
     "path": "posts/Conclusion/",
     "title": "Conclusion",
     "description": {},
@@ -12,7 +27,7 @@
     "date": "2020-04-15",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-15T13:53:19+02:00"
+    "last_modified": "2020-04-15T13:57:12+02:00"
   },
   {
     "path": "posts/Introduction/",
@@ -27,22 +42,7 @@
     "date": "2020-04-15",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-15T13:53:34+02:00"
-  },
-  {
-    "path": "posts/Bibliography/",
-    "title": "Bibliography",
-    "description": {},
-    "author": [
-      {
-        "name": "Aimeric Vandescure",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-15",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-04-15T13:54:06+02:00"
+    "last_modified": "2020-04-15T13:57:21+02:00"
   },
   {
     "path": "posts/2020-03-13 article 9/",
