@@ -1,7 +1,12 @@
 ---
 title: "Conclusion"
-date: "4/15/2020"
-output: html_document
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 4-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 The different articles in this blog expose the different ways in which we can use the properties of different wild yeasts or lab yeasts. 

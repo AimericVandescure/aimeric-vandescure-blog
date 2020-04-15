@@ -1,7 +1,12 @@
 ---
 title: "Introduction"
-date: "4/15/2020"
-output: html_document
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 4-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 
