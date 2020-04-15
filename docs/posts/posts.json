@@ -1,7 +1,7 @@
 [
   {
-    "path": "posts/Bibliography/",
-    "title": "Bibliography",
+    "path": "posts/Introduction/",
+    "title": "Introduction",
     "description": {},
     "author": [
       {
@@ -9,10 +9,10 @@
         "url": {}
       }
     ],
-    "date": "2020-04-15",
+    "date": "2020-04-17",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-15T13:57:02+02:00"
+    "last_modified": "2020-04-15T13:58:53+02:00"
   },
   {
     "path": "posts/Conclusion/",
@@ -30,8 +30,8 @@
     "last_modified": "2020-04-15T13:57:12+02:00"
   },
   {
-    "path": "posts/Introduction/",
-    "title": "Introduction",
+    "path": "posts/Bibliography/",
+    "title": "Bibliography",
     "description": {},
     "author": [
       {
@@ -39,10 +39,10 @@
         "url": {}
       }
     ],
-    "date": "2020-04-15",
+    "date": "2020-04-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-15T13:57:21+02:00"
+    "last_modified": "2020-04-15T13:58:48+02:00"
   },
   {
     "path": "posts/2020-03-13 article 9/",
