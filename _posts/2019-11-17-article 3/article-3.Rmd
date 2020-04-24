@@ -1,0 +1,48 @@
+---
+title: "Article analysis n° 3"
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I Title of the article: 
+
+How accumulating useful genes helps older yeast fare better in tougher times
+
+
+## II Name of the Magazine + Source [URL]:
+
+Science Daily  https://www.sciencedaily.com/releases/2019/12/191203143314.htm 
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| To carry   | To transport                   |
+|   The ageing     | Getting old        |
+|  To bump up  |  To increase  |
+|   As well as  |  In addition to  |
+|  Whether   |  If  |
+|  Within  | Into |
+|To liken  |  To compare  |
+| To hoard  | To store  |
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Ryan M. Hull, Michelle King, Grazia Pizza, Felix Krueger, Xabier Vergara, Jonathan Houseley from Babraham Institute's Epigenetics research programme.                       |
+| Published in?                | December 3, 2019                                                       |
+| General topic?               |  The yeast is used here to understand the accumulation of genes in specific environment depending on the age of the cell and to understand the formation of extrachromosomal circular DNA (eccDNA).                      |
+| Procedure/what was examined? | The yeast is a good study organism because of its asymetric division, therefore the mother and daughter cell coexist in the population and thus their responses to environmental stress can be compared. An high concentration of copper is here used as stress which is toxic and the result is that the yeast increased specifically the amount of the gene CUP1 to survive. There also are eccDNA present, this type of genes can be easily gained or lost depending on environment, which brings a certain flexibility to the genome. This flexibility presupposes a great variability into the amount of gene amplification in a yeast population, however this is not the case during the cell division where the mother cell keep a large part of this amount to keep an evolutionary advantage despite many inconveniences such as a contribution to ageing. In addition, cancerous cells also having eccDNA to drug resistance, understand this mechanism in yeast allow to improve the knowledge of a similar mechanisme in cancerous cells.|
+| Conclusions/discovery?       |  Control the gene duplication could permit to adapt the cell to a given environment or a futur environmental change but it also could to permit similar mechanisms such as in the case of a cancerous cell.      |
+| Remaining questions?         | Were there other tests ? And with other products ? |
+

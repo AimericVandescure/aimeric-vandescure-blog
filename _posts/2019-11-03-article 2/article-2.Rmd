@@ -1,0 +1,51 @@
+---
+title: "Article analysis n° 2"
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 11-03-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I Title of the article: 
+
+Potential vitamin and Alzheimer's drugs produced in yeast
+
+
+## II Name of the Magazine + Source [URL]:
+
+Science Daily  https://www.sciencedaily.com/releases/2019/11/191111102407.htm
+
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| To lead             | To result                   |
+| A broth             | Liquid for culture of microorganisms        |
+| Furthemore          | In addition  |
+| Biobased            | From animal or plant biomass  |
+| Hence               | Thus, so  |
+| A pathway      | A manner |
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Steven A. van der Hoek, Behrooz Darbani, Karolina E. Zugaj, Bala Krishna Prabhala, Mathias Bernfried Biron, Milica Randelovic, Jacqueline B. Medina, Douglas B. Kell, Irina Borodina  from The Novo Nordisk Foundation Center for Biosustainability.                         |
+| Published in?                | November 11, 2019                                                       |
+| General topic?               |An amino acid, the ergothioneine is able to prevent or delay neurodegenerative diseases like Alzheimer. In addition, some fungi and bacteria produce some in nature so it could be used to industrial production.  |
+| Procedure/what was examined? | Chemical synthesis and exctracting from mushrooms is expensive and complicated so scientists compared differents fungi and the bacterium *Mycobacterium smegmatis* in different combinations where yeast is the production host, the best combinaison is finally with the enzymes NcEgt1 and CpEgt2. Scientists also tried to improve the yield by the use of ergothioneine transporters but it has not worked. Rather, the optimisation of the medium by adding amino acids that operate like building blocks permited a production of 0,6g/l in 84 hours for the fungi and 1,3 g/l in 216h for *E.coli* which have the best production.|
+| Conclusions/discovery?       |  The amino acid has not yet been used on humans but is promising on rats and roundworms. Furthermore, *E.coli* is preferably used for its enzymes but the yeast remains a better host of production.      |
+| Remaining questions?         | What kind of genetic modification could we perform to increase the yield ? If vitamin C and D can prevent neurodegenerative diseases, why not use it directly instead of ergothioneine ?|
+
+
+
+
+

@@ -1,0 +1,49 @@
+---
+title: "Article analysis n° 1"
+author:
+  - name: Aimeric Vandescure
+    url: {}
+date: 10-20-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I Title of the article: 
+
+Yeast experiments show fit lineages are less tolerant to deleterious mutations
+
+
+## II Name of the Magazine + Source [URL]:
+
+Phys.org  https://phys.org/news/2019-10-yeast-lineages-tolerant-deleterious-mutations.html
+
+
+## III Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| A backround   | An origin                   |
+| Suited                    | Adapted         |
+| An offspring       | A child/ A progeny     |
+| To crowd out   | To avoid     |
+| A tradeoff     | A deal   |
+| An handling    | A manipulation   |
+| To deem      | To say what we think    |
+
+## IV Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Milo S. Johnson et al. From Department of Organismic & Evolutionary Biology, Harvard University                        |
+| Published in?                | October 25, 2019                                                       |
+| General topic?               |  There are exceptions in evolutionary theorie and this yeast experiment is an example. Indeed, it shows that less suited organisms may be more resistant to deleterous mutations than others.               |
+| Procedure/what was examined? | To learn more about the deal between capacity for adaptation and cost of producing progeny that are less fit, the researchers introduced deleterious mutations, they determined which is the more deleterious and they measured the effect on fitness.  |
+| Conclusions/discovery?       |  They found that more fit strains have higher variance and lower mean scores, that may show that beneficial mutations could have decreasing returns. So the researchers think that faster-growing strains are more sensitive to introduced mutations and that ther might be a conflict between two types of selection.     |
+| Remaining questions?         | Are there other types of exceptions ? If beneficial mutations could have decreasing returns, how can we measure it ?    |
+
+
